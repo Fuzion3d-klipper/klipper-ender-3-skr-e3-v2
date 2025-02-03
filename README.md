@@ -13,6 +13,7 @@
 
 <h2>🚀 Instalación Express</h2>
 <ol>
+  <li>Instalar Klipper, Moonraker y la interfaz web (Mainsail/Fluidd). [Guía de instalación](https://github.com/dw-0/kiauh)</li>
   <li>Flashea el firmware en la SKR E3 V2 (te dejo el <code>firmware.bin</code> listo).</li>
   <li>Copia el <code>printer.cfg</code> en tu Raspberry Pi u host Klipper.</li>
   <li>Reinicia y ajusta lo necesario.</li>
