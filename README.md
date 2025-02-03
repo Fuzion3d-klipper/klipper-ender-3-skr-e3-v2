@@ -35,7 +35,7 @@
 
 <h2>⚙️ Requisitos</h2>
 <ul>
-  <li>🔹 Raspberry Pi con <b>Klipper instalado</b>.</li>
+  <li>🔹 Raspberry Pi o PC con distro Linux con <b>Klipper instalado</b>.</li>
   <li>🔹 Conexión UART entre la placa y la Pi.</li>
   <li>🔹 ¡Ganas de imprimir más rápido y mejor! 😎</li>
 </ul>
