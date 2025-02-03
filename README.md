@@ -13,10 +13,20 @@
 
 <h2>🚀 Instalación Express</h2>
 <ol>
-  <li>Flashea el firmware en la SKR E3 V2 (te dejo el <code>.bin</code> listo).</li>
+  <li>Flashea el firmware en la SKR E3 V2 (te dejo el <code>firmware.bin</code> listo).</li>
   <li>Copia el <code>printer.cfg</code> en tu Raspberry Pi u host Klipper.</li>
   <li>Reinicia y ajusta lo necesario.</li>
   <li>¡A imprimir con la velocidad de un cohete! 🚀</li>
+</ol>
+
+<h2>🔧 Proceso para flashear el firmware</h2>
+<ol>
+  <li>Formatea una tarjeta microSD en <b>FAT32</b>.</li>
+  <li>Copia el archivo <code>firmware.bin</code> a la raíz de la microSD.</li>
+  <li>Inserta la microSD en la SKR E3 V2 y apaga la impresora.</li>
+  <li>Enciende la impresora y espera unos segundos.</li>
+  <li>El firmware se flasheará automáticamente. La tarjeta SD ahora tendrá un archivo con un nombre diferente (esto indica que el proceso fue exitoso).</li>
+  <li>Retira la microSD y ya puedes conectar la impresora a Klipper.</li>
 </ol>
 
 <h2>⚙️ Requisitos</h2>
@@ -35,5 +45,6 @@
 
 <h2>🤝 Contribuciones</h2>
 <p>¿Mejoraste algo? ¡Haz un fork y comparte! 🛠️🎉</p>
+
 
 
