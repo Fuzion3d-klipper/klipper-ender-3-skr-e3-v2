@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Klipper para Ender 3 + SKR E3 V2 🎯</h1>
 
 <p align="center">
-  <img src="ruta/a/tu/imagen.png" alt="Ender 3 + Klipper" width="500"/>
+  <img src="logo.png" alt="Ender 3 + Klipper" width="500"/>
 </p>
 
 <h2>📦 ¿Qué hay aquí?</h2>
